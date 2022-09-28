@@ -1,0 +1,32 @@
+.sidebar-nav{margin-top: 20px;
+            pading:0;
+            list_style: none
+}
+
+
+
+
+head {
+    background-repeat: repeat-y;}
+
+head {
+    background-image: url(fon.jpg);
+}
+
+/*head {
+  min-height: 100vh;
+  margin: 0;
+
+  display: grid;
+
+  /* задаём высоту строк */
+/*  grid-template-rows: auto 2fr auto;
+}
+
+footer {
+  /* кладём элемент в начало ячейки по вертикали */
+  /* чтобы его высота была равна высоте контента */
+/*  align-self: start;
+
+  border: 1px dotted red;
+}
